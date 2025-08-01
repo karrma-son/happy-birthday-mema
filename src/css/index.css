@@ -633,14 +633,14 @@ body, html{
 .third--canvas .center--line h1{
 	position: absolute;
 	width:auto;
-	height: 1px;
+	height: 2px;
 	left:50%;
 	top:50%;
 	transform:translate(-50%,-50%);
 	color:#864c6c;
 	text-transform: uppercase;
 	margin:0;
-	font-size:2em;
+	font-size:3em;
 }
 
 .third--canvas .center--line h1 > span{
@@ -716,7 +716,7 @@ body, html{
 }
 
 .third--canvas > img#gf2{
-	left:25%;
+	left:45%;
 	bottom:3em;
 	animation-delay: 4800ms;
 }
