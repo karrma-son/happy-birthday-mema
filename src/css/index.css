@@ -728,9 +728,9 @@ body, html{
 }
 
 .third--canvas > img#heart{
-	left:8%;
+	left:10%;
 	bottom:5em;
-	animation-delay: 7000ms;
+	animation-delay: 6500ms;
 	width: 20rem;
 	height: 28rem;
 } 
