@@ -237,14 +237,14 @@ body, html{
 } 
 
 .slide--content--one h1.first{
-	font-size: 6em;
+	font-size: 1em;
 	opacity: 0;
 	transform:rotate(-180deg) scale(0);
 	animation:secondSlideTextOne 1500ms ease 0s 1 forwards;
 }
 
 .slide--content--one h2.first{
-	font-size: 5em;
+	font-size: 1em;
 	transform: scale(0);
 	opacity: 0;
 	animation:secondSlideTextTwo 1300ms ease 490ms 1 forwards;
@@ -260,7 +260,7 @@ body, html{
 .slide--content--one h1.second{
 	top:3em;
 	color:#fcbb5e;
-	font-size: 6em;
+	font-size: 1em;
 	opacity: 0;
 	animation: secondSlideTextFour 300ms ease 1200ms 1 forwards;
 }
@@ -396,7 +396,7 @@ body, html{
 	transform: translateY(-40%);
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
-	font-size:5em;
+	font-size:1em;
 	color:#fff;
 }
 
@@ -508,11 +508,11 @@ body, html{
 }
 
 .mema--pic img{
-	width: 35rem;
-	height: 25rem;;
+	width: 15rem;
+	height: 10rem;;
 	margin-top: 1%;
 	margin-left: 35%;
-	animation: shake 0.5s infinite;
+
 }
 
 
@@ -640,12 +640,12 @@ body, html{
 	color:#864c6c;
 	text-transform: uppercase;
 	margin:0;
-	font-size:5em;
+	font-size:1em;
 }
 
 .third--canvas .center--line h1 > span{
 	position: relative;
-	top:2em;
+	top:1em;
 	opacity: 0;
 	animation:thirdCanvasLastText 100ms ease 3s 1 forwards;
 }
@@ -730,8 +730,8 @@ body, html{
 	left:33%;
 	bottom:5em;
 	animation-delay: 6000ms;
-	width: 6px;
-	height: 12px;
+	width: 5rem;
+	height: 5rem;
 } 
 
 @keyframes giftIcon{
