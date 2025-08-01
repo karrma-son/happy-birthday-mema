@@ -511,7 +511,7 @@ body, html{
 	width: 25rem;
 	height: 20rem;;
 	margin-top: 2%;
-	margin-left: 25%;
+	margin-left: 15%;
 
 }
 
@@ -600,8 +600,8 @@ body, html{
 
 .third--canvas .center--line{
 	position: absolute;
-	width:0%;
-	height:2px;
+	width:10%;
+	height:10%;
 	background:#d8d0be;
 	top:0;
 	bottom:0;
@@ -633,14 +633,14 @@ body, html{
 .third--canvas .center--line h1{
 	position: absolute;
 	width:auto;
-	height: 2in;
+	height: 5px;
 	left:50%;
 	top:50%;
 	transform:translate(-50%,-50%);
 	color:#864c6c;
 	text-transform: uppercase;
 	margin:0;
-	font-size:1em;
+	font-size:3em;
 }
 
 .third--canvas .center--line h1 > span{
@@ -716,22 +716,22 @@ body, html{
 }
 
 .third--canvas > img#gf2{
-	left:15%;
+	left:25%;
 	bottom:2em;
 	animation-delay: 4800ms;
 }
 
 .third--canvas > img#gf3{
-	left:25%;
+	left:45%;
 	animation-delay: 5300ms;
 }
 
 .third--canvas > img#heart{
-	left:13%;
+	left:23%;
 	bottom:5em;
 	animation-delay: 6000ms;
-	width: 12rem;
-	height: 15rem;
+	width: 22rem;
+	height: 35rem;
 } 
 
 @keyframes giftIcon{
