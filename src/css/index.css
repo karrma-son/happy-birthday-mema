@@ -511,7 +511,7 @@ body, html{
 	width: 25rem;
 	height: 20rem;;
 	margin-top: 2%;
-	margin-left: 5%;
+
 
 }
 
@@ -633,12 +633,13 @@ body, html{
 .third--canvas .center--line h1{
 	position: absolute;
 	width:auto;
-	height: 2em;
+	height: 3em;
 	left:50%;
 	top:50%;
 	transform:translate(-50%,-50%);
 	color:#864c6c;
 	text-transform: uppercase;
+	text-align: center;
 	margin:0;
 	font-size:2em;
 }
