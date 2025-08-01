@@ -633,7 +633,7 @@ body, html{
 .third--canvas .center--line h1{
 	position: absolute;
 	width:auto;
-	height: 2px;
+	height: 1px;
 	left:50%;
 	top:50%;
 	transform:translate(-50%,-50%);
@@ -716,8 +716,8 @@ body, html{
 }
 
 .third--canvas > img#gf2{
-	left:35%;
-	bottom:2em;
+	left:25%;
+	bottom:3em;
 	animation-delay: 4800ms;
 }
 
