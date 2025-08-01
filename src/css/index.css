@@ -729,10 +729,10 @@ body, html{
 
 .third--canvas > img#heart{
 	left:13%;
-	bottom:4em;
+	bottom:5em;
 	animation-delay: 6000ms;
-	width: 17rem;
-	height: 30rem;
+	width: 22rem;
+	height: 33rem;
 } 
 
 @keyframes giftIcon{
