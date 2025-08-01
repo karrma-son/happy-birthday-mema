@@ -508,10 +508,10 @@ body, html{
 }
 
 .mema--pic img{
-	width: 15rem;
-	height: 10rem;;
-	margin-top: 1%;
-	margin-left: 35%;
+	width: 25rem;
+	height: 20rem;;
+	margin-top: 2%;
+	margin-left: 25%;
 
 }
 
@@ -601,7 +601,7 @@ body, html{
 .third--canvas .center--line{
 	position: absolute;
 	width:0%;
-	height:5px;
+	height:2px;
 	background:#d8d0be;
 	top:0;
 	bottom:0;
@@ -622,18 +622,18 @@ body, html{
 }
 
 .third--canvas .center--line img#bl--left{
-	left:2em;
+	left:1em;
 }
 
 .third--canvas .center--line img#bl--right{
-	right:2em;
+	right:1em;
 	animation-delay: 2.5s;
 }
 
 .third--canvas .center--line h1{
 	position: absolute;
 	width:auto;
-	height:auto;
+	height: 2in;
 	left:50%;
 	top:50%;
 	transform:translate(-50%,-50%);
@@ -712,26 +712,26 @@ body, html{
 }
 
 .third--canvas > img#gf1{
-	left:35%;
+	left:5%;
 }
 
 .third--canvas > img#gf2{
-	left:45%;
+	left:15%;
 	bottom:2em;
 	animation-delay: 4800ms;
 }
 
 .third--canvas > img#gf3{
-	left:55%;
+	left:25%;
 	animation-delay: 5300ms;
 }
 
 .third--canvas > img#heart{
-	left:33%;
+	left:13%;
 	bottom:5em;
 	animation-delay: 6000ms;
-	width: 5rem;
-	height: 5rem;
+	width: 12rem;
+	height: 15rem;
 } 
 
 @keyframes giftIcon{
