@@ -633,14 +633,14 @@ body, html{
 .third--canvas .center--line h1{
 	position: absolute;
 	width:auto;
-	height: 2px;
+	height: 2em;
 	left:50%;
 	top:50%;
 	transform:translate(-50%,-50%);
 	color:#864c6c;
 	text-transform: uppercase;
 	margin:0;
-	font-size:3em;
+	font-size:2em;
 }
 
 .third--canvas .center--line h1 > span{
