@@ -539,11 +539,13 @@ body, html{
 .star--bg img#b1{
 	transform:rotate(-15deg);
 	left:0;
+	size: 12px;
 }
 
 .star--bg img#b2{
 	transform:rotate(15deg);
 	right:0;
+	size: 12px;
 }
 
 @keyframes thirdCanvasBanner{
@@ -713,17 +715,17 @@ body, html{
 }
 
 .third--canvas > img#gf1{
-	left:5%;
+	left:3%;
 }
 
 .third--canvas > img#gf2{
-	left:39%;
+	left:29%;
 	bottom:3em;
 	animation-delay: 4800ms;
 }
 
 .third--canvas > img#gf3{
-	left:75%;
+	left:55%;
 	animation-delay: 5300ms;
 }
 
@@ -731,7 +733,7 @@ body, html{
 	left:10%;
 	bottom:5em;
 	animation-delay: 6500ms;
-	width: 20rem;
+	width: 28rem;
 	height: 28rem;
 } 
 
