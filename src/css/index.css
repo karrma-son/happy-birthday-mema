@@ -730,6 +730,8 @@ body, html{
 	left:33%;
 	bottom:5em;
 	animation-delay: 6000ms;
+	width: 6px;
+	height: 12px;
 } 
 
 @keyframes giftIcon{
