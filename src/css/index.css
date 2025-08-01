@@ -282,7 +282,7 @@ body, html{
 	margin:auto;
 	opacity: 0;
 	top:8em;
-	animation:secondSlideSVG 500ms ease 1400ms 1 forwards;
+	animation:secondSlideSVG 500ms ease 400ms 1 forwards;
 }
 
 
@@ -511,7 +511,7 @@ body, html{
 	width: 25rem;
 	height: 20rem;;
 	margin-top: 2%;
-	margin-left: 15%;
+	margin-left: 5%;
 
 }
 
@@ -633,14 +633,14 @@ body, html{
 .third--canvas .center--line h1{
 	position: absolute;
 	width:auto;
-	height: 5px;
+	height: 2px;
 	left:50%;
 	top:50%;
 	transform:translate(-50%,-50%);
 	color:#864c6c;
 	text-transform: uppercase;
 	margin:0;
-	font-size:3em;
+	font-size:2em;
 }
 
 .third--canvas .center--line h1 > span{
@@ -716,18 +716,18 @@ body, html{
 }
 
 .third--canvas > img#gf2{
-	left:25%;
+	left:35%;
 	bottom:2em;
 	animation-delay: 4800ms;
 }
 
 .third--canvas > img#gf3{
-	left:45%;
+	left:75%;
 	animation-delay: 5300ms;
 }
 
 .third--canvas > img#heart{
-	left:23%;
+	left:13%;
 	bottom:5em;
 	animation-delay: 6000ms;
 	width: 22rem;
